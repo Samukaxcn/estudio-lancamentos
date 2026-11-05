@@ -121,13 +121,13 @@
     "ordem": 1,
     "appid": "{458033A0-A130-44E1-9D3E-0B1E92CF8B4F}",
     "exe": "Estudio FaceSort.exe",
-    "versao": "1.3",
+    "versao": "1.4",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/facesort-v1.3/Instalar-Estudio-FaceSort-1.3.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/facesort-v1.4/Instalar-Estudio-FaceSort-1.4.exe"
     ],
-    "sha256": "50e65c27685e14f995a27808c677aa89aeb29c32038aea653a8ca1d233c5cc7a",
-    "tamanho": 268161709,
-    "notas": "",
+    "sha256": "c84daea8b63c72b7a852e919fc66eec642fde3de24ca8be6317cf6f97fbee321",
+    "tamanho": 268155554,
+    "notas": "Criar formando novo pelos Não identificados: botão direito na foto, digita o nome ou ID e ele puxa as outras fotos da pessoa no evento",
     "detalhes": "Reconhece o rosto de cada formando pelas fotos de amostra e copia as fotos dele para uma pasta própria. Distingue foto de destaque, de grupo e de fundo, e separa as dúvidas para revisão.",
     "data": "2026-11-05"
   },
