@@ -36,13 +36,13 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.12.4",
+    "versao": "1.12.2",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.12.4/Instalar-Estudio-Bridge-1.12.4.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.12.2/Instalar-Estudio-Bridge-1.12.2.exe"
     ],
-    "sha256": "3082ab87b79b9b0053ea28826a45c3c2d35468df077ecc03605e908a8311ba8e",
-    "tamanho": 6654508,
-    "notas": "Caçar IDs funciona com fotos da Sony\nAcha a ID mesmo com o papel encostado em camisa azul-clara\nBlusa listrada na foto de modelo não atrapalha mais a caçada",
+    "sha256": "2063510cc4884ea7a86c40319a110ee88a4c5d05a27a764794d8f2f9a94dd500",
+    "tamanho": 6701583,
+    "notas": "",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
     "data": "2026-11-05"
   },
