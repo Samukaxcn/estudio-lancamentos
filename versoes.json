@@ -10,5 +10,20 @@
     "sha256": "3cfc2ac523812ee26e52668e35789617f78a2737bf0b7f6caa820a15bde3efa0",
     "tamanho": 4015568,
     "notas": ""
+  },
+  "design": {
+    "nome": "Estúdio Design",
+    "descricao": "Edição de imagens estilo Canva",
+    "grupo": "Fotografia",
+    "ordem": 11,
+    "appid": "{B71DDC74-0A66-4907-8502-5A48DAE092D0}",
+    "exe": "Estudio Design.exe",
+    "versao": "1.3",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/design-v1.3/Instalar-Estudio-Design-1.3.exe"
+    ],
+    "sha256": "e5b959a76d08a7ea3b05eb8597c76a8894433185a5d3ee68671da613b6a90a85",
+    "tamanho": 4197165,
+    "notas": ""
   }
 }
