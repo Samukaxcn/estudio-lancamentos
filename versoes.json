@@ -130,5 +130,20 @@
     "sha256": "c4ea4107416f111c50015fa4c99236530aec6118c0490cbe4899d980b543c733",
     "tamanho": 385621131,
     "notas": ""
+  },
+  "foto": {
+    "nome": "Estúdio Foto",
+    "descricao": "Tratamento de fotos em lote",
+    "grupo": "Fotografia",
+    "ordem": 7,
+    "appid": "{49D7B9DA-5444-4DDF-9954-ED85D6F28E32}",
+    "exe": "Estudio Foto.exe",
+    "versao": "1.1",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/foto-v1.1/Instalar-Estudio-Foto-1.1.exe"
+    ],
+    "sha256": "2651d90eb88e315369689f9ab390f864e75761842f86a708710e116747ba5307",
+    "tamanho": 434934764,
+    "notas": ""
   }
 }
