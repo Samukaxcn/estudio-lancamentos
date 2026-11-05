@@ -40,5 +40,20 @@
     "sha256": "2063510cc4884ea7a86c40319a110ee88a4c5d05a27a764794d8f2f9a94dd500",
     "tamanho": 6701583,
     "notas": ""
+  },
+  "ferramentas": {
+    "nome": "Estúdio Ferramentas",
+    "descricao": "Index, Poster, Divisor, Copiar, Planificar e Relatório",
+    "grupo": "Fotografia",
+    "ordem": 10,
+    "appid": "{D5FD9B0D-BFA9-46AD-8C38-C6A31C55C5B5}",
+    "exe": "Estudio Ferramentas.exe",
+    "versao": "1.1",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/ferramentas-v1.1/Instalar-Estudio-Ferramentas-1.1.exe"
+    ],
+    "sha256": "bf5c89fda7f6576ffd59c8e1f83b7d7dedf42fc8712cc5c98ab1473a9dc9787f",
+    "tamanho": 49512051,
+    "notas": ""
   }
 }
