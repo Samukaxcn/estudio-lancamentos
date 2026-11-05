@@ -25,5 +25,20 @@
     "sha256": "e5b959a76d08a7ea3b05eb8597c76a8894433185a5d3ee68671da613b6a90a85",
     "tamanho": 4197165,
     "notas": ""
+  },
+  "bridge": {
+    "nome": "Estúdio Bridge",
+    "descricao": "Navega e marca as fotos (rótulos, estrelas, IDs)",
+    "grupo": "Fotografia",
+    "ordem": 3,
+    "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
+    "exe": "Estudio Bridge.exe",
+    "versao": "1.12.2",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.12.2/Instalar-Estudio-Bridge-1.12.2.exe"
+    ],
+    "sha256": "2063510cc4884ea7a86c40319a110ee88a4c5d05a27a764794d8f2f9a94dd500",
+    "tamanho": 6701583,
+    "notas": ""
   }
 }
