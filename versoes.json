@@ -115,5 +115,20 @@
     "sha256": "50e65c27685e14f995a27808c677aa89aeb29c32038aea653a8ca1d233c5cc7a",
     "tamanho": 268161709,
     "notas": ""
+  },
+  "sequencia": {
+    "nome": "Estúdio Sequência",
+    "descricao": "Numera as fotos na ordem do álbum",
+    "grupo": "Fotografia",
+    "ordem": 5,
+    "appid": "{A6531FED-7A9D-4E82-9AED-D43E48529B7E}",
+    "exe": "Estudio Sequencia.exe",
+    "versao": "1.3",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/sequencia-v1.3/Instalar-Estudio-Sequencia-1.3.exe"
+    ],
+    "sha256": "c4ea4107416f111c50015fa4c99236530aec6118c0490cbe4899d980b543c733",
+    "tamanho": 385621131,
+    "notas": ""
   }
 }
