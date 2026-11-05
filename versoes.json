@@ -160,5 +160,20 @@
     "sha256": "87a83446389bd34c8c757bdb28af54330a9e2403bb9bf56f3037cabac4d78a3b",
     "tamanho": 454795345,
     "notas": ""
+  },
+  "culling": {
+    "nome": "Estúdio Culling",
+    "descricao": "Seleciona as melhores fotos e separa repetidas",
+    "grupo": "Fotografia",
+    "ordem": 2,
+    "appid": "{A373E652-2E9C-4D77-9949-30CE1D5410B0}",
+    "exe": "Estudio Culling.exe",
+    "versao": "1.8",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/culling-v1.8/Instalar-Estudio-Culling-1.8.exe"
+    ],
+    "sha256": "6d85ad16eda4392edd3676ebfe1154de21e6e1fcece9259b3edff486b3c01118",
+    "tamanho": 634356530,
+    "notas": ""
   }
 }
