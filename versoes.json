@@ -3,13 +3,13 @@
     "nome": "Estúdio Central",
     "appid": "{EC1F15E1-90A6-4F2C-B865-CBD14652654E}",
     "exe": "Estudio Central.exe",
-    "versao": "1.1",
+    "versao": "1.2",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/central-v1.1/Instalar-Estudio-Central-1.1.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/central-v1.2/Instalar-Estudio-Central-1.2.exe"
     ],
-    "sha256": "3c2389c753aadfa0cf528f3135f7dedaabc1cd9d779fa1f386bda3f35e2cea50",
-    "tamanho": 4087788,
-    "notas": "Tela nova: descrição de cada app, busca, ordenar, grade ou lista\nAbrir a pasta do programa pelo menu ⋯",
+    "sha256": "b840f23e54191c340b60889c8ac6468b6f142db8f81762ffb97c73f21eb0e514",
+    "tamanho": 4226115,
+    "notas": "Fica perto do relógio e avisa no Windows quando sair atualização\nComeça junto com o Windows (dá para desligar no menu do ícone)",
     "data": "2026-11-05"
   },
   "design": {
