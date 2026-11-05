@@ -155,13 +155,13 @@
     "ordem": 7,
     "appid": "{49D7B9DA-5444-4DDF-9954-ED85D6F28E32}",
     "exe": "Estudio Foto.exe",
-    "versao": "1.1",
+    "versao": "1.2",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/foto-v1.1/Instalar-Estudio-Foto-1.1.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/foto-v1.2/Instalar-Estudio-Foto-1.2.exe"
     ],
-    "sha256": "2651d90eb88e315369689f9ab390f864e75761842f86a708710e116747ba5307",
-    "tamanho": 434934764,
-    "notas": "",
+    "sha256": "1f7e97d2f25a6a144816edd3987811e93b6bf4e685186340d00485316c738b55",
+    "tamanho": 434930991,
+    "notas": "Mais rápido em placas mais simples (ex.: GT 1030): a IA do rosto roda inteira na placa e usa quase metade da memória; mesma qualidade. No fim do lote mostra o tempo de cada etapa (Detalhes).",
     "detalhes": "Aplica presets de tratamento em centenas de fotos de uma vez: pele, cor e exposição, com cuidado especial nos rostos.",
     "data": "2026-11-05"
   },
