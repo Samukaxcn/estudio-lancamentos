@@ -85,5 +85,20 @@
     "sha256": "e2da54405cb64dfc4b0a2ec7e456cd28460e72a0e553121d1818252120ca7341",
     "tamanho": 75903561,
     "notas": ""
+  },
+  "renomear": {
+    "nome": "Estúdio Renomear",
+    "descricao": "Renomeia as fotos pela ID do papel",
+    "grupo": "Fotografia",
+    "ordem": 6,
+    "appid": "{223D7312-A0A6-401A-8C3F-721C258B415B}",
+    "exe": "Estudio Renomear.exe",
+    "versao": "1.2",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/renomear-v1.2/Instalar-Estudio-Renomear-1.2.exe"
+    ],
+    "sha256": "759b06b6ec8b6e733e939bbd1c47bbd78d1ef45abd8a4a0b1992a3798b87d9d4",
+    "tamanho": 131687268,
+    "notas": ""
   }
 }
