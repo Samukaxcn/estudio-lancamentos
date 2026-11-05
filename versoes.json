@@ -70,5 +70,20 @@
     "sha256": "9e010dc3e366d1361147cc5e17698d3cd8660950f7e3102677aef6b38d177701",
     "tamanho": 72463937,
     "notas": ""
+  },
+  "montagem": {
+    "nome": "Estúdio Montagem",
+    "descricao": "Coloca as fotos no template",
+    "grupo": "Fotografia",
+    "ordem": 8,
+    "appid": "{5FA860E8-AA8D-4FC2-AF7A-EC1FA4E356AF}",
+    "exe": "Estudio Montagem.exe",
+    "versao": "1.2",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/montagem-v1.2/Instalar-Estudio-Montagem-1.2.exe"
+    ],
+    "sha256": "e2da54405cb64dfc4b0a2ec7e456cd28460e72a0e553121d1818252120ca7341",
+    "tamanho": 75903561,
+    "notas": ""
   }
 }
