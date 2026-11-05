@@ -1,0 +1,14 @@
+{
+  "central": {
+    "nome": "Estúdio Central",
+    "appid": "{EC1F15E1-90A6-4F2C-B865-CBD14652654E}",
+    "exe": "Estudio Central.exe",
+    "versao": "1.0",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/central-v1.0/Instalar-Estudio-Central-1.0.exe"
+    ],
+    "sha256": "3cfc2ac523812ee26e52668e35789617f78a2737bf0b7f6caa820a15bde3efa0",
+    "tamanho": 4015568,
+    "notas": ""
+  }
+}
