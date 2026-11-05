@@ -145,5 +145,20 @@
     "sha256": "2651d90eb88e315369689f9ab390f864e75761842f86a708710e116747ba5307",
     "tamanho": 434934764,
     "notas": ""
+  },
+  "capas": {
+    "nome": "Estúdio Capas",
+    "descricao": "Marca as capas no Bridge",
+    "grupo": "Fotografia",
+    "ordem": 4,
+    "appid": "{3EFC8208-F3E9-4088-9C0D-752A7D4F8044}",
+    "exe": "Estudio Capas.exe",
+    "versao": "1.8.1",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/capas-v1.8.1/Instalar-Estudio-Capas-1.8.1.exe"
+    ],
+    "sha256": "87a83446389bd34c8c757bdb28af54330a9e2403bb9bf56f3037cabac4d78a3b",
+    "tamanho": 454795345,
+    "notas": ""
   }
 }
