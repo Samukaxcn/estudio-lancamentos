@@ -36,13 +36,13 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.12.2",
+    "versao": "1.12.5",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.12.2/Instalar-Estudio-Bridge-1.12.2.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.12.5/Instalar-Estudio-Bridge-1.12.5.exe"
     ],
-    "sha256": "2063510cc4884ea7a86c40319a110ee88a4c5d05a27a764794d8f2f9a94dd500",
-    "tamanho": 6701583,
-    "notas": "",
+    "sha256": "d8bbce84131dd6e905569716a9a863e637ef6215c3e55f4a1649fd39624c2d2f",
+    "tamanho": 6688330,
+    "notas": "Caçar IDs confere a ficha de perto: só marca quando vê as linhas do formulário\nNão marca mais camisa azul-clara nem camisa listrada\nFunciona com fotos da Sony",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
     "data": "2026-11-05"
   },
