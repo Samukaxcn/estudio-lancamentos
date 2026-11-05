@@ -9,11 +9,12 @@
     ],
     "sha256": "3cfc2ac523812ee26e52668e35789617f78a2737bf0b7f6caa820a15bde3efa0",
     "tamanho": 4015568,
-    "notas": ""
+    "notas": "",
+    "data": "2026-11-05"
   },
   "design": {
     "nome": "Estúdio Design",
-    "descricao": "Edição de imagens estilo Canva",
+    "descricao": "Criação de artes e convites",
     "grupo": "Fotografia",
     "ordem": 11,
     "appid": "{B71DDC74-0A66-4907-8502-5A48DAE092D0}",
@@ -24,11 +25,13 @@
     ],
     "sha256": "e5b959a76d08a7ea3b05eb8597c76a8894433185a5d3ee68671da613b6a90a85",
     "tamanho": 4197165,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Editor de imagens no estilo Canva para artes de formatura e escola: textos, formas, régua e guias, em centímetros e DPI para impressão.",
+    "data": "2026-11-05"
   },
   "bridge": {
     "nome": "Estúdio Bridge",
-    "descricao": "Navega e marca as fotos (rótulos, estrelas, IDs)",
+    "descricao": "Navegador e marcador de fotos",
     "grupo": "Fotografia",
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
@@ -39,11 +42,13 @@
     ],
     "sha256": "2063510cc4884ea7a86c40319a110ee88a4c5d05a27a764794d8f2f9a94dd500",
     "tamanho": 6701583,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
+    "data": "2026-11-05"
   },
   "ferramentas": {
     "nome": "Estúdio Ferramentas",
-    "descricao": "Index, Poster, Divisor, Copiar, Planificar e Relatório",
+    "descricao": "Utilitários do dia a dia do estúdio",
     "grupo": "Fotografia",
     "ordem": 10,
     "appid": "{D5FD9B0D-BFA9-46AD-8C38-C6A31C55C5B5}",
@@ -54,7 +59,9 @@
     ],
     "sha256": "bf5c89fda7f6576ffd59c8e1f83b7d7dedf42fc8712cc5c98ab1473a9dc9787f",
     "tamanho": 49512051,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Index, Poster (com e sem nome), Divisor, Copiar, Planificar e Relatório em PDF e Excel, tudo num app só.",
+    "data": "2026-11-05"
   },
   "album": {
     "nome": "Estúdio Álbum",
@@ -69,7 +76,9 @@
     ],
     "sha256": "9e010dc3e366d1361147cc5e17698d3cd8660950f7e3102677aef6b38d177701",
     "tamanho": 72463937,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Monta as lâminas do álbum a partir das fotos escolhidas, com layouts prontos e ajuste fino de cada página.",
+    "data": "2026-11-05"
   },
   "montagem": {
     "nome": "Estúdio Montagem",
@@ -84,7 +93,9 @@
     ],
     "sha256": "e2da54405cb64dfc4b0a2ec7e456cd28460e72a0e553121d1818252120ca7341",
     "tamanho": 75903561,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Encaixa cada foto no template certo e grava por cima da original, sem gerar cópia e sem trabalho manual.",
+    "data": "2026-11-05"
   },
   "renomear": {
     "nome": "Estúdio Renomear",
@@ -99,7 +110,9 @@
     ],
     "sha256": "759b06b6ec8b6e733e939bbd1c47bbd78d1ef45abd8a4a0b1992a3798b87d9d4",
     "tamanho": 131687268,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Lê o número da ficha que o formando segura na foto (sem internet, no próprio PC) e renomeia as fotos seguintes com essa ID.",
+    "data": "2026-11-05"
   },
   "facesort": {
     "nome": "Estúdio FaceSort",
@@ -114,7 +127,9 @@
     ],
     "sha256": "50e65c27685e14f995a27808c677aa89aeb29c32038aea653a8ca1d233c5cc7a",
     "tamanho": 268161709,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Reconhece o rosto de cada formando pelas fotos de amostra e copia as fotos dele para uma pasta própria. Distingue foto de destaque, de grupo e de fundo, e separa as dúvidas para revisão.",
+    "data": "2026-11-05"
   },
   "sequencia": {
     "nome": "Estúdio Sequência",
@@ -129,7 +144,9 @@
     ],
     "sha256": "c4ea4107416f111c50015fa4c99236530aec6118c0490cbe4899d980b543c733",
     "tamanho": 385621131,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Lê os rótulos do Bridge e numera as fotos na ordem em que entram no álbum. Reconhece beca, cenário e evento com IA.",
+    "data": "2026-11-05"
   },
   "foto": {
     "nome": "Estúdio Foto",
@@ -144,11 +161,13 @@
     ],
     "sha256": "2651d90eb88e315369689f9ab390f864e75761842f86a708710e116747ba5307",
     "tamanho": 434934764,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Aplica presets de tratamento em centenas de fotos de uma vez: pele, cor e exposição, com cuidado especial nos rostos.",
+    "data": "2026-11-05"
   },
   "capas": {
     "nome": "Estúdio Capas",
-    "descricao": "Marca as capas no Bridge",
+    "descricao": "Escolhe e marca as capas",
     "grupo": "Fotografia",
     "ordem": 4,
     "appid": "{3EFC8208-F3E9-4088-9C0D-752A7D4F8044}",
@@ -159,11 +178,13 @@
     ],
     "sha256": "87a83446389bd34c8c757bdb28af54330a9e2403bb9bf56f3037cabac4d78a3b",
     "tamanho": 454795345,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Escolhe com IA a melhor foto de cada formando para a capa do álbum e grava a marcação direto no Bridge, pronta para conferir.",
+    "data": "2026-11-05"
   },
   "culling": {
     "nome": "Estúdio Culling",
-    "descricao": "Seleciona as melhores fotos e separa repetidas",
+    "descricao": "Seleção automática das melhores fotos",
     "grupo": "Fotografia",
     "ordem": 2,
     "appid": "{A373E652-2E9C-4D77-9949-30CE1D5410B0}",
@@ -174,6 +195,8 @@
     ],
     "sha256": "6d85ad16eda4392edd3676ebfe1154de21e6e1fcece9259b3edff486b3c01118",
     "tamanho": 634356530,
-    "notas": ""
+    "notas": "",
+    "detalhes": "Analisa o ensaio inteiro e separa em Selecionadas, Rejeitadas e Duplicadas: olho fechado, foto tremida, exposição errada no rosto, pose e fotos repetidas.",
+    "data": "2026-11-05"
   }
 }
