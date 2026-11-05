@@ -55,5 +55,20 @@
     "sha256": "bf5c89fda7f6576ffd59c8e1f83b7d7dedf42fc8712cc5c98ab1473a9dc9787f",
     "tamanho": 49512051,
     "notas": ""
+  },
+  "album": {
+    "nome": "Estúdio Álbum",
+    "descricao": "Diagramação de álbuns",
+    "grupo": "Fotografia",
+    "ordem": 9,
+    "appid": "{568FAE8D-E866-4BAE-9B28-12DFB0C68030}",
+    "exe": "Estudio Album.exe",
+    "versao": "1.6",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/album-v1.6/Instalar-Estudio-Album-1.6.exe"
+    ],
+    "sha256": "9e010dc3e366d1361147cc5e17698d3cd8660950f7e3102677aef6b38d177701",
+    "tamanho": 72463937,
+    "notas": ""
   }
 }
