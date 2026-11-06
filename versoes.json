@@ -36,13 +36,13 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.13.1",
+    "versao": "1.13.2",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.13.1/Instalar-Estudio-Bridge-1.13.1.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.13.2/Instalar-Estudio-Bridge-1.13.2.exe"
     ],
-    "sha256": "a18ecee11132d42b02073690db6fe9bf0f117510e41e5c695c52b5794a44137d",
-    "tamanho": 46375252,
-    "notas": "Caçar IDs agora aceita ficha com letras e número (ex.: CEI 048), além de só número\nNão confunde estampa de camiseta nem número gigante de balão/placa com a ID",
+    "sha256": "4ab9a637245ba7d927e160f84252588f4d67b48eb53d9c6b92e386487d5a2a0f",
+    "tamanho": 46386554,
+    "notas": "Apagar ou mover fotos não perde mais o lugar nem a seleção (pasta do servidor)",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
     "data": "2026-11-06"
   },
