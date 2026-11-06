@@ -198,5 +198,23 @@
     "notas": "",
     "detalhes": "Analisa o ensaio inteiro e separa em Selecionadas, Rejeitadas e Duplicadas: olho fechado, foto tremida, exposição errada no rosto, pose e fotos repetidas.",
     "data": "2026-11-05"
+  },
+  "transfer": {
+    "nome": "ImagineTransfer",
+    "tag": "IMAGINE",
+    "descricao": "Envia e recebe arquivos do servidor do estúdio",
+    "detalhes": "Substitui o FileZilla: continua de onde parou se a internet cair, mostra as fotos do servidor em miniatura, envia vários arquivos ao mesmo tempo e aceita pastas arrastadas direto do Windows.",
+    "grupo": "Transferência",
+    "ordem": 12,
+    "appid": "{A7E7C931-7172-4DE1-9DBD-2CD375D7D5C7}",
+    "exe": "ImagineTransfer.exe",
+    "versao": "1.0.0",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/transfer-v1.0.0/Instalar-ImagineTransfer-1.0.0.exe"
+    ],
+    "sha256": "2429cb8b7737cd6f6bc09be1099767838b3bd5bc647af020b65fc963798000b0",
+    "tamanho": 5303396,
+    "notas": "Primeira versão: substitui o FileZilla. Continua de onde parou, mostra miniaturas das fotos do servidor, fila salva e envio de pastas arrastando.",
+    "data": "2026-11-06"
   }
 }
