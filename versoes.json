@@ -36,13 +36,13 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.13.0",
+    "versao": "1.13.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.13.0/Instalar-Estudio-Bridge-1.13.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.13.1/Instalar-Estudio-Bridge-1.13.1.exe"
     ],
-    "sha256": "faca23351025f5d62b8a8cda00f9d61ffdc3510b8cba09c6270df305199a53a5",
-    "tamanho": 46409762,
-    "notas": "Caçar IDs agora lê o número que a pessoa segura: tem número na mão = ID\nAcha as IDs mesmo com modelo ruim ou sem modelo (o modelo agora é opcional)\nUsa a placa de vídeo para ler rápido",
+    "sha256": "a18ecee11132d42b02073690db6fe9bf0f117510e41e5c695c52b5794a44137d",
+    "tamanho": 46375252,
+    "notas": "Caçar IDs agora aceita ficha com letras e número (ex.: CEI 048), além de só número\nNão confunde estampa de camiseta nem número gigante de balão/placa com a ID",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
     "data": "2026-11-06"
   },
