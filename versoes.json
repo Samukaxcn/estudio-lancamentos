@@ -3,14 +3,14 @@
     "nome": "Estúdio Central",
     "appid": "{EC1F15E1-90A6-4F2C-B865-CBD14652654E}",
     "exe": "Estudio Central.exe",
-    "versao": "1.2",
+    "versao": "1.3",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/central-v1.2/Instalar-Estudio-Central-1.2.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/central-v1.3/Instalar-Estudio-Central-1.3.exe"
     ],
-    "sha256": "b840f23e54191c340b60889c8ac6468b6f142db8f81762ffb97c73f21eb0e514",
-    "tamanho": 4226115,
-    "notas": "Fica perto do relógio e avisa no Windows quando sair atualização\nComeça junto com o Windows (dá para desligar no menu do ícone)",
-    "data": "2026-11-05"
+    "sha256": "7f4ebc8b23d673c52c5911b055c1c5eb02dc8a56e10905a8e5fb77bbf90e529e",
+    "tamanho": 4232853,
+    "notas": "ImagineTransfer no catálogo",
+    "data": "2026-11-06"
   },
   "design": {
     "nome": "Estúdio Design",
