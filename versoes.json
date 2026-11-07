@@ -155,15 +155,15 @@
     "ordem": 7,
     "appid": "{49D7B9DA-5444-4DDF-9954-ED85D6F28E32}",
     "exe": "Estudio Foto.exe",
-    "versao": "1.2",
+    "versao": "1.3",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/foto-v1.2/Instalar-Estudio-Foto-1.2.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/foto-v1.3/Instalar-Estudio-Foto-1.3.exe"
     ],
-    "sha256": "1f7e97d2f25a6a144816edd3987811e93b6bf4e685186340d00485316c738b55",
-    "tamanho": 434930991,
-    "notas": "Mais rápido em placas mais simples (ex.: GT 1030): a IA do rosto roda inteira na placa e usa quase metade da memória; mesma qualidade. No fim do lote mostra o tempo de cada etapa (Detalhes).",
+    "sha256": "817eac0e51fa1b28164e7d3e34841f2f9c81b2636963699bc44d58db7944f62d",
+    "tamanho": 434957929,
+    "notas": "A foto tratada mantém as marcações feitas no Bridge (rótulo e estrelas)",
     "detalhes": "Aplica presets de tratamento em centenas de fotos de uma vez: pele, cor e exposição, com cuidado especial nos rostos.",
-    "data": "2026-11-05"
+    "data": "2026-11-06"
   },
   "capas": {
     "nome": "Estúdio Capas",
