@@ -208,13 +208,13 @@
     "ordem": 12,
     "appid": "{A7E7C931-7172-4DE1-9DBD-2CD375D7D5C7}",
     "exe": "ImagineTransfer.exe",
-    "versao": "1.0.0",
+    "versao": "1.0.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/transfer-v1.0.0/Instalar-ImagineTransfer-1.0.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/transfer-v1.0.1/Instalar-ImagineTransfer-1.0.1.exe"
     ],
-    "sha256": "2429cb8b7737cd6f6bc09be1099767838b3bd5bc647af020b65fc963798000b0",
-    "tamanho": 5303396,
-    "notas": "Primeira versão: substitui o FileZilla. Continua de onde parou, mostra miniaturas das fotos do servidor, fila salva e envio de pastas arrastando.",
-    "data": "2026-11-06"
+    "sha256": "b23c57bc2e8978a6b75e43c4c5cc65c5a763e94e6a4df649427f07cfd4712760",
+    "tamanho": 5301462,
+    "notas": "Corrige a mensagem 'A transferência foi interrompida' que aparecia o tempo todo com o FileZilla Server (transferências simultâneas com TLS).",
+    "data": "2026-11-07"
   }
 }
