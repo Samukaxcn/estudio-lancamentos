@@ -36,13 +36,13 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.13.3",
+    "versao": "1.13.4",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.13.3/Instalar-Estudio-Bridge-1.13.3.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.13.4/Instalar-Estudio-Bridge-1.13.4.exe"
     ],
-    "sha256": "536d73b2f044cf7908335cb85d63503d1a323621eb88aa6d3d2d7c8b211cfcaa",
-    "tamanho": 46389230,
-    "notas": "Tela em pé: Marcar e Filtros ficam numa faixa embaixo das fotos",
+    "sha256": "36ffae0e454b2e455dea2a61fc7898810ed5cae9383ae4a427fcda91b1d40565",
+    "tamanho": 46385193,
+    "notas": "Tela em pé: não corta mais dos lados e a faixa de Marcar/Filtros ficou mais baixa",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
     "data": "2026-11-09"
   },
