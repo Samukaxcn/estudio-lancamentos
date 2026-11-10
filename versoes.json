@@ -36,13 +36,13 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.14.0",
+    "versao": "1.15.0",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.14.0/Instalar-Estudio-Bridge-1.14.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.15.0/Instalar-Estudio-Bridge-1.15.0.exe"
     ],
-    "sha256": "114bb1969e56b495fab1e59f069203545733c7ab9b3d78c4fa098e293b5bb6db",
-    "tamanho": 46405625,
-    "notas": "Mostra arquivos RAW (NEF, CR2, CR3, CRW, ARW, DNG, RAF…) com etiqueta do tipo na miniatura",
+    "sha256": "412cba2e791a7dc3fd21a958978b7fd6c27c51adae205a6ecc41e99a998e89a4",
+    "tamanho": 46441690,
+    "notas": "Preto e branco e Sépia profissional (5 estilos com prévia; cópia na pasta PB/SEPIA ou substituir a original)",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
     "data": "2026-11-10"
   },
