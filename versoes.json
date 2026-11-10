@@ -53,14 +53,14 @@
     "ordem": 10,
     "appid": "{D5FD9B0D-BFA9-46AD-8C38-C6A31C55C5B5}",
     "exe": "Estudio Ferramentas.exe",
-    "versao": "1.2",
+    "versao": "1.3",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/ferramentas-v1.2/Instalar-Estudio-Ferramentas-1.2.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/ferramentas-v1.3/Instalar-Estudio-Ferramentas-1.3.exe"
     ],
-    "sha256": "ef0220eead9f751e7f7d6f81f3624398eb06fb4aac778fb5f2dd21046edae029",
-    "tamanho": 49515187,
-    "notas": "Nova ferramenta Renomear: numera as fotos (0001, 0002…) com prefixo, número inicial e Desfazer",
-    "detalhes": "Index, Poster (com e sem nome), Divisor, Copiar, Planificar, Renomear e Relatório em PDF e Excel, tudo num app só.",
+    "sha256": "a9a522dc2dc9e8ae1e8cad263a66e0293ecd70247a11f69c244a7a21ef60c37b",
+    "tamanho": 64293022,
+    "notas": "Nova ferramenta Renomear p/ lista: a foto com a ID (12.jpg) ganha o nome da pessoa pela lista em PDF, Excel ou CSV",
+    "detalhes": "Index, Poster (com e sem nome), Divisor, Copiar, Planificar, Renomear, Renomear pela lista (ID → nome) e Relatório em PDF e Excel, tudo num app só.",
     "data": "2026-11-10"
   },
   "album": {
