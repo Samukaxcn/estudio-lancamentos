@@ -70,13 +70,13 @@
     "ordem": 9,
     "appid": "{568FAE8D-E866-4BAE-9B28-12DFB0C68030}",
     "exe": "Estudio Album.exe",
-    "versao": "1.7",
+    "versao": "1.7.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/album-v1.7/Instalar-ATLAS-1.7.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/album-v1.7.1/Instalar-ATLAS-1.7.1.exe"
     ],
-    "sha256": "04b830e0e6cbba021cab0c5ddc27e6077127b86bea8d2fba2b9df2c928540134",
-    "tamanho": 72556487,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama ATLAS, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
+    "sha256": "ff1e72f8b9f73b5e7ec59f5db9cd02a3a6287d397d3ecc87bc53180b2a012a29",
+    "tamanho": 72524735,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Monta as lâminas do álbum a partir das fotos escolhidas, com layouts prontos e ajuste fino de cada página.",
     "data": "2026-11-12"
   },
