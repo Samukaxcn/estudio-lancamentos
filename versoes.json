@@ -13,21 +13,21 @@
     "data": "2026-11-06"
   },
   "design": {
-    "nome": "Estúdio Design",
-    "descricao": "Criação de artes e convites",
+    "nome": "MUSE",
+    "descricao": "Artes e convites",
     "grupo": "Fotografia",
     "ordem": 11,
     "appid": "{B71DDC74-0A66-4907-8502-5A48DAE092D0}",
     "exe": "Estudio Design.exe",
-    "versao": "1.3",
+    "versao": "1.4",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/design-v1.3/Instalar-Estudio-Design-1.3.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/design-v1.4/Instalar-MUSE-1.4.exe"
     ],
-    "sha256": "e5b959a76d08a7ea3b05eb8597c76a8894433185a5d3ee68671da613b6a90a85",
-    "tamanho": 4197165,
-    "notas": "",
+    "sha256": "c0df881ef9943e9614c035498d0d0a7b980125e0a04993be2b2febf393d48452",
+    "tamanho": 4312388,
+    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama MUSE, com ícone, cores e título novos. O funcionamento não mudou.",
     "detalhes": "Editor de imagens no estilo Canva para artes de formatura e escola: textos, formas, régua e guias, em centímetros e DPI para impressão.",
-    "data": "2026-11-05"
+    "data": "2026-11-12"
   },
   "bridge": {
     "nome": "TRAVELLER",
