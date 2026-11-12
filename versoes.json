@@ -172,13 +172,13 @@
     "ordem": 4,
     "appid": "{3EFC8208-F3E9-4088-9C0D-752A7D4F8044}",
     "exe": "Estudio Capas.exe",
-    "versao": "1.9",
+    "versao": "1.9.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/capas-v1.9/Instalar-ICONIC-1.9.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/capas-v1.9.1/Instalar-ICONIC-1.9.1.exe"
     ],
-    "sha256": "18679c3aa49d204ccbf845a51f836a1b479cffd5d9e402186537c21ac6be4b4f",
-    "tamanho": 452933266,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama ICONIC, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
+    "sha256": "830568e406bb329f68f3c062d99576306a3d062c84bb85187a27d9bf2d29814a",
+    "tamanho": 454889291,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Escolhe com IA a melhor foto de cada formando para a capa do álbum e grava a marcação direto no Bridge, pronta para conferir.",
     "data": "2026-11-12"
   },
