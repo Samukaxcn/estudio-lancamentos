@@ -183,21 +183,21 @@
     "data": "2026-11-05"
   },
   "culling": {
-    "nome": "Estúdio Culling",
-    "descricao": "Seleção automática das melhores fotos",
+    "nome": "VANTAGE",
+    "descricao": "Seleção de fotos",
     "grupo": "Fotografia",
     "ordem": 2,
     "appid": "{A373E652-2E9C-4D77-9949-30CE1D5410B0}",
     "exe": "Estudio Culling.exe",
-    "versao": "1.8",
+    "versao": "1.9",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/culling-v1.8/Instalar-Estudio-Culling-1.8.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/culling-v1.9/Instalar-VANTAGE-1.9.exe"
     ],
-    "sha256": "6d85ad16eda4392edd3676ebfe1154de21e6e1fcece9259b3edff486b3c01118",
-    "tamanho": 634356530,
-    "notas": "",
+    "sha256": "c4db5fa3ecf779b5bd2fc31ac4340c1d47ac98181ec7c9aaf4cd5de2b6ee405c",
+    "tamanho": 632667860,
+    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama VANTAGE, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
     "detalhes": "Analisa o ensaio inteiro e separa em Selecionadas, Rejeitadas e Duplicadas: olho fechado, foto tremida, exposição errada no rosto, pose e fotos repetidas.",
-    "data": "2026-11-05"
+    "data": "2026-11-12"
   },
   "transfer": {
     "nome": "ImagineTransfer",
