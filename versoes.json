@@ -36,13 +36,13 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.17.0",
+    "versao": "1.17.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.17.0/Instalar-TRAVELLER-1.17.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.17.1/Instalar-TRAVELLER-1.17.1.exe"
     ],
-    "sha256": "ee464554d9cda086995dbbc047cdf0ad5379c88fb070d8fa41fb5a726c4aa60a",
-    "tamanho": 46550137,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama TRAVELLER, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
+    "sha256": "63c857d90d5c1df71af780dd8c3b55fb769e9f7b1f53e901b05d41a5bc349ad1",
+    "tamanho": 46613488,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
     "data": "2026-11-12"
   },
