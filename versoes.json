@@ -121,13 +121,13 @@
     "ordem": 1,
     "appid": "{458033A0-A130-44E1-9D3E-0B1E92CF8B4F}",
     "exe": "Estudio FaceSort.exe",
-    "versao": "1.5",
+    "versao": "1.5.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/facesort-v1.5/Instalar-PRISMA-1.5.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/facesort-v1.5.1/Instalar-PRISMA-1.5.1.exe"
     ],
-    "sha256": "18766c249133e68732bde145c14d6f56a98b98910f16d375f9dbbf52fa999714",
-    "tamanho": 266542952,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama PRISMA, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
+    "sha256": "fce9070b18ead84e269723c3f6a32bb1342fb874f1db2370c00fa3e51d90be1c",
+    "tamanho": 268334640,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Reconhece o rosto de cada formando pelas fotos de amostra e copia as fotos dele para uma pasta própria. Distingue foto de destaque, de grupo e de fundo, e separa as dúvidas para revisão.",
     "data": "2026-11-12"
   },
