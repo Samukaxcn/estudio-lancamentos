@@ -189,13 +189,13 @@
     "ordem": 2,
     "appid": "{A373E652-2E9C-4D77-9949-30CE1D5410B0}",
     "exe": "Estudio Culling.exe",
-    "versao": "1.9",
+    "versao": "1.9.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/culling-v1.9/Instalar-VANTAGE-1.9.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/culling-v1.9.1/Instalar-VANTAGE-1.9.1.exe"
     ],
-    "sha256": "c4db5fa3ecf779b5bd2fc31ac4340c1d47ac98181ec7c9aaf4cd5de2b6ee405c",
-    "tamanho": 632667860,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama VANTAGE, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
+    "sha256": "415ca2dcba78b4f4acaac3082d2f54683c13dd52f3e94fd2cac2a2e1da308a19",
+    "tamanho": 634541131,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Analisa o ensaio inteiro e separa em Selecionadas, Rejeitadas e Duplicadas: olho fechado, foto tremida, exposição errada no rosto, pose e fotos repetidas.",
     "data": "2026-11-12"
   },
