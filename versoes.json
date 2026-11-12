@@ -200,21 +200,21 @@
     "data": "2026-11-12"
   },
   "transfer": {
-    "nome": "ImagineTransfer",
+    "nome": "RELAY",
     "tag": "IMAGINE",
-    "descricao": "Envia e recebe arquivos do servidor do estúdio",
+    "descricao": "Transferência de arquivos",
     "detalhes": "Substitui o FileZilla: continua de onde parou se a internet cair, mostra as fotos do servidor em miniatura, envia vários arquivos ao mesmo tempo e aceita pastas arrastadas direto do Windows.",
     "grupo": "Transferência",
     "ordem": 12,
     "appid": "{A7E7C931-7172-4DE1-9DBD-2CD375D7D5C7}",
     "exe": "ImagineTransfer.exe",
-    "versao": "1.0.1",
+    "versao": "1.1.0",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/transfer-v1.0.1/Instalar-ImagineTransfer-1.0.1.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/transfer-v1.1.0/Instalar-RELAY-1.1.0.exe"
     ],
-    "sha256": "b23c57bc2e8978a6b75e43c4c5cc65c5a763e94e6a4df649427f07cfd4712760",
-    "tamanho": 5301462,
-    "notas": "Corrige a mensagem 'A transferência foi interrompida' que aparecia o tempo todo com o FileZilla Server (transferências simultâneas com TLS).",
-    "data": "2026-11-07"
+    "sha256": "0cb1307ffa2f227286d0dc4d89d156e76e4d0c32d4f01b5af41f5af4c95c8207",
+    "tamanho": 5379613,
+    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama RELAY, com ícone, cores e título novos. O funcionamento não mudou.",
+    "data": "2026-11-12"
   }
 }
