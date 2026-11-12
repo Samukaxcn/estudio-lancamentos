@@ -53,15 +53,15 @@
     "ordem": 10,
     "appid": "{D5FD9B0D-BFA9-46AD-8C38-C6A31C55C5B5}",
     "exe": "Estudio Ferramentas.exe",
-    "versao": "1.3",
+    "versao": "1.4",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/ferramentas-v1.3/Instalar-Estudio-Ferramentas-1.3.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/ferramentas-v1.4/Instalar-Estudio-Ferramentas-1.4.exe"
     ],
-    "sha256": "a9a522dc2dc9e8ae1e8cad263a66e0293ecd70247a11f69c244a7a21ef60c37b",
-    "tamanho": 64293022,
-    "notas": "Nova ferramenta Renomear p/ lista: a foto com a ID (12.jpg) ganha o nome da pessoa pela lista em PDF, Excel ou CSV",
-    "detalhes": "Index, Poster (com e sem nome), Divisor, Copiar, Planificar, Renomear, Renomear pela lista (ID → nome) e Relatório em PDF e Excel, tudo num app só.",
-    "data": "2026-11-10"
+    "sha256": "d22162e27377f31d399cd3bee4c84b9e3d5cf4e90695c6f6a1af2d7ca9827f8c",
+    "tamanho": 64324043,
+    "notas": "Nova ferramenta Nome na arte: escreve o nome do arquivo num espaco fixo de cada arte, em lote (qualquer fonte do Windows, manuscritas, cor, contorno, modelos salvos).",
+    "detalhes": "Index, Poster (com e sem nome), Nome na arte, Divisor, Copiar, Planificar, Renomear, Renomear pela lista e Relatório em PDF e Excel, tudo num app só.",
+    "data": "2026-11-12"
   },
   "album": {
     "nome": "Estúdio Álbum",
