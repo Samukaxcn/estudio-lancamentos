@@ -115,21 +115,21 @@
     "data": "2026-11-05"
   },
   "facesort": {
-    "nome": "Estúdio FaceSort",
-    "descricao": "Separa as fotos do evento por formando",
+    "nome": "PRISMA",
+    "descricao": "Reconhecimento facial",
     "grupo": "Fotografia",
     "ordem": 1,
     "appid": "{458033A0-A130-44E1-9D3E-0B1E92CF8B4F}",
     "exe": "Estudio FaceSort.exe",
-    "versao": "1.4",
+    "versao": "1.5",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/facesort-v1.4/Instalar-Estudio-FaceSort-1.4.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/facesort-v1.5/Instalar-PRISMA-1.5.exe"
     ],
-    "sha256": "c84daea8b63c72b7a852e919fc66eec642fde3de24ca8be6317cf6f97fbee321",
-    "tamanho": 268155554,
-    "notas": "Criar formando novo pelos Não identificados: botão direito na foto, digita o nome ou ID e ele puxa as outras fotos da pessoa no evento",
+    "sha256": "18766c249133e68732bde145c14d6f56a98b98910f16d375f9dbbf52fa999714",
+    "tamanho": 266542952,
+    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama PRISMA, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
     "detalhes": "Reconhece o rosto de cada formando pelas fotos de amostra e copia as fotos dele para uma pasta própria. Distingue foto de destaque, de grupo e de fundo, e separa as dúvidas para revisão.",
-    "data": "2026-11-05"
+    "data": "2026-11-12"
   },
   "sequencia": {
     "nome": "Estúdio Sequência",
