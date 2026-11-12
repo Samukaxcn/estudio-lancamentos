@@ -200,7 +200,7 @@
     "data": "2026-11-12"
   },
   "transfer": {
-    "nome": "RELAY",
+    "nome": "VORTEX",
     "tag": "IMAGINE",
     "descricao": "Transferência de arquivos",
     "detalhes": "Substitui o FileZilla: continua de onde parou se a internet cair, mostra as fotos do servidor em miniatura, envia vários arquivos ao mesmo tempo e aceita pastas arrastadas direto do Windows.",
@@ -208,13 +208,13 @@
     "ordem": 12,
     "appid": "{A7E7C931-7172-4DE1-9DBD-2CD375D7D5C7}",
     "exe": "ImagineTransfer.exe",
-    "versao": "1.1.0",
+    "versao": "1.1.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/transfer-v1.1.0/Instalar-RELAY-1.1.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/transfer-v1.1.1/Instalar-VORTEX-1.1.1.exe"
     ],
-    "sha256": "0cb1307ffa2f227286d0dc4d89d156e76e4d0c32d4f01b5af41f5af4c95c8207",
-    "tamanho": 5379613,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama RELAY, com ícone, cores e título novos. O funcionamento não mudou.",
+    "sha256": "981ad827c28b556a0959d8ae290aec5cc9a8174474355098be45cb7165947d26",
+    "tamanho": 5315535,
+    "notas": "Novo nome: VORTEX (antes RELAY). Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "data": "2026-11-12"
   }
 }
