@@ -149,21 +149,21 @@
     "data": "2026-11-12"
   },
   "foto": {
-    "nome": "Estúdio Foto",
-    "descricao": "Tratamento de fotos em lote",
+    "nome": "LUMI",
+    "descricao": "Tratamento em lote",
     "grupo": "Fotografia",
     "ordem": 7,
     "appid": "{49D7B9DA-5444-4DDF-9954-ED85D6F28E32}",
     "exe": "Estudio Foto.exe",
-    "versao": "1.3",
+    "versao": "1.4",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/foto-v1.3/Instalar-Estudio-Foto-1.3.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/foto-v1.4/Instalar-LUMI-1.4.exe"
     ],
-    "sha256": "817eac0e51fa1b28164e7d3e34841f2f9c81b2636963699bc44d58db7944f62d",
-    "tamanho": 434957929,
-    "notas": "A foto tratada mantém as marcações feitas no Bridge (rótulo e estrelas)",
+    "sha256": "5663c13db6b4ef10cdf8cb2fb57365a03bc3141dae1ced21b77e1921ffc8a10b",
+    "tamanho": 435043843,
+    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama LUMI, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
     "detalhes": "Aplica presets de tratamento em centenas de fotos de uma vez: pele, cor e exposição, com cuidado especial nos rostos.",
-    "data": "2026-11-06"
+    "data": "2026-11-12"
   },
   "capas": {
     "nome": "ICONIC",
