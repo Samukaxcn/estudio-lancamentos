@@ -155,13 +155,13 @@
     "ordem": 7,
     "appid": "{49D7B9DA-5444-4DDF-9954-ED85D6F28E32}",
     "exe": "Estudio Foto.exe",
-    "versao": "1.4",
+    "versao": "1.4.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/foto-v1.4/Instalar-LUMI-1.4.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/foto-v1.4.1/Instalar-LUMI-1.4.1.exe"
     ],
-    "sha256": "5663c13db6b4ef10cdf8cb2fb57365a03bc3141dae1ced21b77e1921ffc8a10b",
-    "tamanho": 435043843,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama LUMI, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
+    "sha256": "522161848bad8e63a287695ebd43dece32b174daf6db2cd404b7464513a94295",
+    "tamanho": 435141220,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Aplica presets de tratamento em centenas de fotos de uma vez: pele, cor e exposição, com cuidado especial nos rostos.",
     "data": "2026-11-12"
   },
