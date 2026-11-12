@@ -138,13 +138,13 @@
     "ordem": 5,
     "appid": "{A6531FED-7A9D-4E82-9AED-D43E48529B7E}",
     "exe": "Estudio Sequencia.exe",
-    "versao": "1.4",
+    "versao": "1.4.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/sequencia-v1.4/Instalar-CHRONOS-1.4.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/sequencia-v1.4.1/Instalar-CHRONOS-1.4.1.exe"
     ],
-    "sha256": "c6ee76a940c08c36e4fdd080d206b395caafdbbb5817213fb60f2d66ab806c60",
-    "tamanho": 385711323,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama CHRONOS, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
+    "sha256": "b30afe552e07d8ebb094e461a68ba5dcd24e8bab8b24e9c18bbb2ec9632c444b",
+    "tamanho": 387500685,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Lê os rótulos do Bridge e numera as fotos na ordem em que entram no álbum. Reconhece beca, cenário e evento com IA.",
     "data": "2026-11-12"
   },
