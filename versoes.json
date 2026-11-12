@@ -132,21 +132,21 @@
     "data": "2026-11-12"
   },
   "sequencia": {
-    "nome": "Estúdio Sequência",
-    "descricao": "Numera as fotos na ordem do álbum",
+    "nome": "CHRONOS",
+    "descricao": "Sequência do álbum",
     "grupo": "Fotografia",
     "ordem": 5,
     "appid": "{A6531FED-7A9D-4E82-9AED-D43E48529B7E}",
     "exe": "Estudio Sequencia.exe",
-    "versao": "1.3",
+    "versao": "1.4",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/sequencia-v1.3/Instalar-Estudio-Sequencia-1.3.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/sequencia-v1.4/Instalar-CHRONOS-1.4.exe"
     ],
-    "sha256": "c4ea4107416f111c50015fa4c99236530aec6118c0490cbe4899d980b543c733",
-    "tamanho": 385621131,
-    "notas": "",
+    "sha256": "c6ee76a940c08c36e4fdd080d206b395caafdbbb5817213fb60f2d66ab806c60",
+    "tamanho": 385711323,
+    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama CHRONOS, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
     "detalhes": "Lê os rótulos do Bridge e numera as fotos na ordem em que entram no álbum. Reconhece beca, cenário e evento com IA.",
-    "data": "2026-11-05"
+    "data": "2026-11-12"
   },
   "foto": {
     "nome": "Estúdio Foto",
