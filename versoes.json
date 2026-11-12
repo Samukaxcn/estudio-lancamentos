@@ -104,13 +104,13 @@
     "ordem": 6,
     "appid": "{223D7312-A0A6-401A-8C3F-721C258B415B}",
     "exe": "Estudio Renomear.exe",
-    "versao": "1.3",
+    "versao": "1.3.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/renomear-v1.3/Instalar-IDENT-1.3.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/renomear-v1.3.1/Instalar-IDENT-1.3.1.exe"
     ],
-    "sha256": "41d8af1a63952ff92b6aa281e71483dabc0fd0a85667b8d87847cedd36d68f0b",
-    "tamanho": 130018769,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama IDENT, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
+    "sha256": "45410df30b561b158405bf86f8a332997e16b094037d9322cd939560618475fd",
+    "tamanho": 131957664,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Lê o número da ficha que o formando segura na foto (sem internet, no próprio PC) e renomeia as fotos seguintes com essa ID.",
     "data": "2026-11-12"
   },
