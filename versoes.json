@@ -36,15 +36,15 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.15.0",
+    "versao": "1.16.0",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.15.0/Instalar-Estudio-Bridge-1.15.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.16.0/Instalar-Estudio-Bridge-1.16.0.exe"
     ],
-    "sha256": "412cba2e791a7dc3fd21a958978b7fd6c27c51adae205a6ecc41e99a998e89a4",
-    "tamanho": 46441690,
-    "notas": "Preto e branco e Sépia profissional (5 estilos com prévia; cópia na pasta PB/SEPIA ou substituir a original)",
+    "sha256": "0e574595813b6416013da5931bf9d9a3d7fd1282b3278c8179b668909ecfa77b",
+    "tamanho": 46440789,
+    "notas": "Filtro de proporções (2:3, 3:4, 16:9…), andar nas pastas com as setinhas (Alt+↑/↓ = pasta do aluno ao lado), Conferir pastas (mostra qual subpasta não tem Colação ou outra marcação) e renomear com o zoom ligado",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
-    "data": "2026-11-10"
+    "data": "2026-11-12"
   },
   "ferramentas": {
     "nome": "Estúdio Ferramentas",
