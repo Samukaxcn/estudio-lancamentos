@@ -53,13 +53,13 @@
     "ordem": 10,
     "appid": "{D5FD9B0D-BFA9-46AD-8C38-C6A31C55C5B5}",
     "exe": "Estudio Ferramentas.exe",
-    "versao": "1.5",
+    "versao": "1.5.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/ferramentas-v1.5/Instalar-FORGE-1.5.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/ferramentas-v1.5.1/Instalar-FORGE-1.5.1.exe"
     ],
-    "sha256": "2dc0a11a6d369be89bfb3b4b2c89790b4dd2410f6b2439ef3e1a825c1330d415",
-    "tamanho": 62927912,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama FORGE, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
+    "sha256": "cc59a565abfa26b957ec31a23deb51bacff85f425a729cbe7120c37103f57415",
+    "tamanho": 64376270,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Index, Poster (com e sem nome), Nome na arte, Divisor, Copiar, Planificar, Renomear, Renomear pela lista e Relatório em PDF e Excel, tudo num app só.",
     "data": "2026-11-12"
   },
