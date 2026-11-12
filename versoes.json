@@ -87,13 +87,13 @@
     "ordem": 8,
     "appid": "{5FA860E8-AA8D-4FC2-AF7A-EC1FA4E356AF}",
     "exe": "Estudio Montagem.exe",
-    "versao": "1.3",
+    "versao": "1.3.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/montagem-v1.3/Instalar-PIXELATE-1.3.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/montagem-v1.3.1/Instalar-PIXELATE-1.3.1.exe"
     ],
-    "sha256": "41e69502f7e4b669e23ed9342a1e2ac467c980e56fbea516f37a9cb4f1f29fc5",
-    "tamanho": 73987934,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama PIXELATE, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
+    "sha256": "711d68da7d5967558df94c2f50c3a5b8fbcc65b30105e1cd6f9e6b7f716a7527",
+    "tamanho": 76115278,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Encaixa cada foto no template certo e grava por cima da original, sem gerar cópia e sem trabalho manual.",
     "data": "2026-11-12"
   },
