@@ -81,21 +81,21 @@
     "data": "2026-11-05"
   },
   "montagem": {
-    "nome": "Estúdio Montagem",
-    "descricao": "Coloca as fotos no template",
+    "nome": "PIXELATE",
+    "descricao": "Montagem em templates",
     "grupo": "Fotografia",
     "ordem": 8,
     "appid": "{5FA860E8-AA8D-4FC2-AF7A-EC1FA4E356AF}",
     "exe": "Estudio Montagem.exe",
-    "versao": "1.2",
+    "versao": "1.3",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/montagem-v1.2/Instalar-Estudio-Montagem-1.2.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/montagem-v1.3/Instalar-PIXELATE-1.3.exe"
     ],
-    "sha256": "e2da54405cb64dfc4b0a2ec7e456cd28460e72a0e553121d1818252120ca7341",
-    "tamanho": 75903561,
-    "notas": "",
+    "sha256": "41e69502f7e4b669e23ed9342a1e2ac467c980e56fbea516f37a9cb4f1f29fc5",
+    "tamanho": 73987934,
+    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama PIXELATE, com Ã­cone, cores e tÃ­tulo novos. O funcionamento nÃ£o mudou.",
     "detalhes": "Encaixa cada foto no template certo e grava por cima da original, sem gerar cópia e sem trabalho manual.",
-    "data": "2026-11-05"
+    "data": "2026-11-12"
   },
   "renomear": {
     "nome": "IDENT",
