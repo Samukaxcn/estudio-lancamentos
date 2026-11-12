@@ -3,13 +3,13 @@
     "nome": "STUDIO",
     "appid": "{EC1F15E1-90A6-4F2C-B865-CBD14652654E}",
     "exe": "Estudio Central.exe",
-    "versao": "1.4",
+    "versao": "1.4.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/central-v1.4/Instalar-STUDIO-1.4.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/central-v1.4.1/Instalar-STUDIO-1.4.1.exe"
     ],
-    "sha256": "38de7c9e5d46177d7161e4b3830c809edbdd69aff6f97dc1d3ed0e54a54aa74c",
-    "tamanho": 4378196,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama STUDIO, com ícone, cores e título novos. O funcionamento não mudou.",
+    "sha256": "abe76349246c3a977d6b7d2ae0708140cd2d33d1f319d3cf247b7fb312c5e00a",
+    "tamanho": 4309948,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas. VORTEX é o novo nome do RELAY.",
     "data": "2026-11-12"
   },
   "design": {
