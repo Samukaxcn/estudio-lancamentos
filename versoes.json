@@ -19,13 +19,13 @@
     "ordem": 11,
     "appid": "{B71DDC74-0A66-4907-8502-5A48DAE092D0}",
     "exe": "Estudio Design.exe",
-    "versao": "1.4",
+    "versao": "1.4.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/design-v1.4/Instalar-MUSE-1.4.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/design-v1.4.1/Instalar-MUSE-1.4.1.exe"
     ],
-    "sha256": "c0df881ef9943e9614c035498d0d0a7b980125e0a04993be2b2febf393d48452",
-    "tamanho": 4312388,
-    "notas": "Nova identidade visual Imagine (STUDIO SUITE): agora se chama MUSE, com ícone, cores e título novos. O funcionamento não mudou.",
+    "sha256": "954c175cd593d5108124cd1edc9c706dceae22d65864beb6f1bc9a5d1271b53f",
+    "tamanho": 4282355,
+    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "detalhes": "Editor de imagens no estilo Canva para artes de formatura e escola: textos, formas, régua e guias, em centímetros e DPI para impressão.",
     "data": "2026-11-12"
   },
