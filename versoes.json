@@ -226,13 +226,13 @@
     "ordem": 13,
     "appid": "{7229519F-6C28-455B-A7AB-B0549F00E974}",
     "exe": "Pulse.exe",
-    "versao": "1.3.0",
+    "versao": "1.4.0",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/pulse-v1.3.0/Instalar-PULSE-1.3.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/pulse-v1.4.0/Instalar-PULSE-1.4.0.exe"
     ],
-    "sha256": "acebdfdfdbe219053c866d362480d342d2165f04f8cd79373370ff85e12f3f29",
-    "tamanho": 4217324,
-    "notas": "Tipo de serviço em cada curso: Álbum completo, Convites, Somente separação ou Somente filtro. Aparece no cartão, na ficha e no filtro do quadro. Os detalhes do álbum só aparecem quando o serviço é Álbum completo.",
+    "sha256": "57d0e653d8d75da47174d727e448a4e7a329c4b621579736fbd43a7500bdb89a",
+    "tamanho": 4217071,
+    "notas": "Botão Concluído no cartão e na ficha (manda direto para Entregue). Cada cliente com a sua cor. O filtro de clientes mostra só quem tem cartão no quadro.",
     "data": "2026-11-16"
   }
 }
