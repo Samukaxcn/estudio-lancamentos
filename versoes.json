@@ -226,13 +226,13 @@
     "ordem": 13,
     "appid": "{7229519F-6C28-455B-A7AB-B0549F00E974}",
     "exe": "Pulse.exe",
-    "versao": "1.2.0",
+    "versao": "1.3.0",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/pulse-v1.2.0/Instalar-PULSE-1.2.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/pulse-v1.3.0/Instalar-PULSE-1.3.0.exe"
     ],
-    "sha256": "a568dab2715ac79dbc117ef78173a265a81e78fc1fba49b808f3f30ea342aa70",
-    "tamanho": 4213982,
-    "notas": "Lista de clientes (18 empresas) com sugestões na ficha e menu Clientes para cadastrar outros. Corrige o aviso diário de prazos, que não aparecia.",
+    "sha256": "acebdfdfdbe219053c866d362480d342d2165f04f8cd79373370ff85e12f3f29",
+    "tamanho": 4217324,
+    "notas": "Tipo de serviço em cada curso: Álbum completo, Convites, Somente separação ou Somente filtro. Aparece no cartão, na ficha e no filtro do quadro. Os detalhes do álbum só aparecem quando o serviço é Álbum completo.",
     "data": "2026-11-16"
   }
 }
