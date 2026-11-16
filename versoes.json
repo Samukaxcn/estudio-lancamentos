@@ -121,13 +121,13 @@
     "ordem": 1,
     "appid": "{458033A0-A130-44E1-9D3E-0B1E92CF8B4F}",
     "exe": "Estudio FaceSort.exe",
-    "versao": "1.6",
+    "versao": "1.6.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/facesort-v1.6/Instalar-PRISMA-1.6.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/facesort-v1.6.1/Instalar-PRISMA-1.6.1.exe"
     ],
-    "sha256": "5373b05fb5b520cc53b49c624184693b023dec93364c7b24a8fc31b4656d11ce",
-    "tamanho": 268344398,
-    "notas": "Duplo clique na foto abre grande com zoom (para ler o nome na ficha) e, em Não identificados/Dúvidas, já dá para Criar formando novo (N) ou Atribuir (A) ali mesmo. Renomear formando na lista: botão direito ou F2.",
+    "sha256": "b05df56bff731acbd2691184522e1113287b9f425e4b9f22124591a7f2ba1837",
+    "tamanho": 268345869,
+    "notas": "Ao fechar o PRISMA ou clicar em Novo evento, o cache e as correções do evento são apagados: o próximo evento começa limpo, sem nada de outras separações.",
     "detalhes": "Reconhece o rosto de cada formando pelas fotos de amostra e copia as fotos dele para uma pasta própria. Distingue foto de destaque, de grupo e de fundo, e separa as dúvidas para revisão.",
     "data": "2026-11-16"
   },
