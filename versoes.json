@@ -216,5 +216,23 @@
     "tamanho": 5315535,
     "notas": "Novo nome: VORTEX (antes RELAY). Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
     "data": "2026-11-12"
+  },
+  "pulse": {
+    "nome": "PULSE",
+    "tag": "IMAGINE",
+    "descricao": "Lançamentos e produção",
+    "detalhes": "Quadro da produção dos álbuns, igual ao Trello: cada lançamento com tamanho, capa, montagem, index, poster e prévia, arrastado de etapa em etapa. A equipe toda vê as mudanças na hora.",
+    "grupo": "Produção",
+    "ordem": 13,
+    "appid": "{7229519F-6C28-455B-A7AB-B0549F00E974}",
+    "exe": "Pulse.exe",
+    "versao": "1.0.0",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/pulse-v1.0.0/Instalar-PULSE-1.0.0.exe"
+    ],
+    "sha256": "ccf1bd2fbf17726b3aee824853857d61453c9f43632e775704b7b09138deb73d",
+    "tamanho": 4210358,
+    "notas": "Primeira versão: quadro de lançamentos da produção com ficha do álbum, equipe com usuário e senha e atualização na hora em todos os PCs.",
+    "data": "2026-11-16"
   }
 }
