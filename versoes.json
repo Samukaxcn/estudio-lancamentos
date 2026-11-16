@@ -226,13 +226,13 @@
     "ordem": 13,
     "appid": "{7229519F-6C28-455B-A7AB-B0549F00E974}",
     "exe": "Pulse.exe",
-    "versao": "1.1.0",
+    "versao": "1.2.0",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/pulse-v1.1.0/Instalar-PULSE-1.1.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/pulse-v1.2.0/Instalar-PULSE-1.2.0.exe"
     ],
-    "sha256": "ae9a91be17a60aee183a49c9ebb627db85d693d8c03d8dc69c015ea2f532e7fb",
-    "tamanho": 4213909,
-    "notas": "Data de recebimento (data do cadastro), prazo máximo de entrega calculado sozinho, prazo especial por álbum e alertas: sino no topo, cartões coloridos e aviso do Windows uma vez por dia.",
+    "sha256": "a568dab2715ac79dbc117ef78173a265a81e78fc1fba49b808f3f30ea342aa70",
+    "tamanho": 4213982,
+    "notas": "Lista de clientes (18 empresas) com sugestões na ficha e menu Clientes para cadastrar outros. Corrige o aviso diário de prazos, que não aparecia.",
     "data": "2026-11-16"
   }
 }
