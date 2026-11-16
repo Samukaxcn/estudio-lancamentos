@@ -36,15 +36,15 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.17.1",
+    "versao": "1.17.2",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.17.1/Instalar-TRAVELLER-1.17.1.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.17.2/Instalar-TRAVELLER-1.17.2.exe"
     ],
-    "sha256": "63c857d90d5c1df71af780dd8c3b55fb769e9f7b1f53e901b05d41a5bc349ad1",
-    "tamanho": 46613488,
-    "notas": "Ícone novo, maior e sem o fundo escuro, para reconhecer o app na barra de tarefas.",
+    "sha256": "e3b9a772b4ee3e101c02ef41f81be8acf0901433a8499dc8ef95142ec669cb29",
+    "tamanho": 46626408,
+    "notas": "Caçar IDs agora reconhece o número da ficha com o ano da turma (ex.: 137/26). Antes essas pastas não achavam nenhuma ID.",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
-    "data": "2026-11-12"
+    "data": "2026-11-16"
   },
   "ferramentas": {
     "nome": "FORGE",
