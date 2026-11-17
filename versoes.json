@@ -234,5 +234,22 @@
     "tamanho": 4217071,
     "notas": "Botão Concluído no cartão e na ficha (manda direto para Entregue). Cada cliente com a sua cor. O filtro de clientes mostra só quem tem cartão no quadro.",
     "data": "2026-11-16"
+  },
+  "editor": {
+    "nome": "AURA",
+    "descricao": "Editor de imagens",
+    "detalhes": "Editor de imagens no estilo do Photoshop, em português: camadas, ajustes e ações gravadas como no Photoshop (abre as .atn), com lote pelo TRAVELLER.",
+    "grupo": "Fotografia",
+    "ordem": 14,
+    "appid": "{CA926759-6792-4544-9FFF-D6BB752B885B}",
+    "exe": "AURA.exe",
+    "versao": "1.0.0",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/editor-v1.0.0/Instalar-AURA-1.0.0.exe"
+    ],
+    "sha256": "79cf3c2f9aabeba89ed7b4ff58e46ca6ce8c8f4812564f1ce4670ad7dc5011eb",
+    "tamanho": 61661912,
+    "notas": "Primeira versão: editor de imagens estilo Photoshop em português, com ações gravadas (abre as .atn) e lote pelo TRAVELLER.",
+    "data": "2026-11-17"
   }
 }
