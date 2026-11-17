@@ -36,13 +36,13 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.18.0",
+    "versao": "1.19.0",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.18.0/Instalar-TRAVELLER-1.18.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.19.0/Instalar-TRAVELLER-1.19.0.exe"
     ],
-    "sha256": "a3f0596b27fb892f7791b10c3431ae75b230b2581ede287d1260674f24c60ae8",
-    "tamanho": 46654164,
-    "notas": "Lote (Ctrl+Alt+L): roda as ações gravadas no AURA nas fotos escolhidas ou em pastas inteiras (precisa do AURA instalado).",
+    "sha256": "b3ab084407eaa92ea865a9094ffa3a10b0465974c989e6e53713a14c7c165718",
+    "tamanho": 46673354,
+    "notas": "Arrastar do Explorer para o TRAVELLER (solta = copiar, Shift = mover) e botão/Tab para esconder o painel da direita.",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
     "data": "2026-11-17"
   },
