@@ -3,14 +3,14 @@
     "nome": "STUDIO",
     "appid": "{EC1F15E1-90A6-4F2C-B865-CBD14652654E}",
     "exe": "Estudio Central.exe",
-    "versao": "1.4.2",
+    "versao": "1.4.3",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/central-v1.4.2/Instalar-STUDIO-1.4.2.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/central-v1.4.3/Instalar-STUDIO-1.4.3.exe"
     ],
-    "sha256": "a2fd9c1a273c8c577236a71e67bc3cb8c80129aef42d8e808cc1d38f4fd856c0",
-    "tamanho": 4318866,
-    "notas": "PULSE (lançamentos e produção) entra no catálogo, com ícone próprio.",
-    "data": "2026-11-16"
+    "sha256": "cfd8f4252062f4314221d95243a61de19ac382832c81be840bc6049781169ef6",
+    "tamanho": 4336300,
+    "notas": "Ícone do AURA no catálogo.",
+    "data": "2026-11-17"
   },
   "design": {
     "nome": "MUSE",
