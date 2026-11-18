@@ -36,15 +36,15 @@
     "ordem": 3,
     "appid": "{236C29E7-A3EF-4DC1-9327-091882D2E825}",
     "exe": "Estudio Bridge.exe",
-    "versao": "1.19.0",
+    "versao": "1.20.0",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.19.0/Instalar-TRAVELLER-1.19.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/bridge-v1.20.0/Instalar-TRAVELLER-1.20.0.exe"
     ],
-    "sha256": "b3ab084407eaa92ea865a9094ffa3a10b0465974c989e6e53713a14c7c165718",
-    "tamanho": 46673354,
-    "notas": "Arrastar do Explorer para o TRAVELLER (solta = copiar, Shift = mover) e botão/Tab para esconder o painel da direita.",
+    "sha256": "d3b97bdc26c6e35641b3b97f0ba0f8e60453c938ba4f4d60fd0ae3cd779ad9ee",
+    "tamanho": 46678578,
+    "notas": "Preferências › Abrir fotos com: escolha AURA, Photoshop, o padrão do Windows ou outro programa para o duplo clique, o Enter e o botão direito.",
     "detalhes": "Navega pelas pastas com miniaturas rápidas, marca rótulos e estrelas que o Adobe Bridge entende, mostra a foto em tela cheia e encontra as IDs dos formulários.",
-    "data": "2026-11-17"
+    "data": "2026-11-18"
   },
   "ferramentas": {
     "nome": "FORGE",
@@ -243,13 +243,13 @@
     "ordem": 14,
     "appid": "{CA926759-6792-4544-9FFF-D6BB752B885B}",
     "exe": "AURA.exe",
-    "versao": "1.0.0",
+    "versao": "1.0.1",
     "urls": [
-      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/editor-v1.0.0/Instalar-AURA-1.0.0.exe"
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/editor-v1.0.1/Instalar-AURA-1.0.1.exe"
     ],
-    "sha256": "79cf3c2f9aabeba89ed7b4ff58e46ca6ce8c8f4812564f1ce4670ad7dc5011eb",
-    "tamanho": 61661912,
-    "notas": "Primeira versão: editor de imagens estilo Photoshop em português, com ações gravadas (abre as .atn) e lote pelo TRAVELLER.",
-    "data": "2026-11-17"
+    "sha256": "b14735adfbc33a0e144cd2a4cc12e5cc552b8226274b7dca5a76d4b84bad5bbd",
+    "tamanho": 61669839,
+    "notas": "Ações: trocar de foto agora entra na gravação, como no Photoshop (copiar da foto anterior e colar na atual).",
+    "data": "2026-11-18"
   }
 }
