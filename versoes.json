@@ -212,7 +212,7 @@
     "urls": [
       "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/transfer-v1.2.0/Instalar-VORTEX-1.2.0.exe"
     ],
-    "sha256": "\\904005d9ff46e93a46bbea14b0b85d14530ad557397b95a15efa293b420c86e2",
+    "sha256": "904005d9ff46e93a46bbea14b0b85d14530ad557397b95a15efa293b420c86e2",
     "tamanho": 5506411,
     "notas": "Atualização automática: o VORTEX agora avisa sozinho quando sai uma versão nova e se atualiza com um clique, mesmo sem o STUDIO (Estúdio Central). As transferências em andamento continuam depois de atualizar.",
     "data": "2026-11-19"
