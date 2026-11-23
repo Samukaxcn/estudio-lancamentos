@@ -251,5 +251,17 @@
     "tamanho": 61669839,
     "notas": "Ações: trocar de foto agora entra na gravação, como no Photoshop (copiar da foto anterior e colar na atual).",
     "data": "2026-11-18"
+  },
+  "stage": {
+    "nome": "STAGE",
+    "exe": "STAGE.exe",
+    "versao": "1.2.0",
+    "urls": [
+      "https://github.com/Samukaxcn/estudio-lancamentos/releases/download/stage-v1.2.0/Instalar-STAGE-1.2.0.exe"
+    ],
+    "sha256": "74029a4178eae2ce7bb23a1907cb547a61e8a7702f2e5f0f08185139da5e23ee",
+    "tamanho": 4098972,
+    "notas": "Suporte a teclado controlador: toque Kontakt, Keyscape e outros instrumentos VST3 pelo teclado (botão Teclado). Camadas, volume, transpor, pânico; o timbre guarda o som do teclado. O afinador agora cala só a guitarra.",
+    "data": "2026-11-23"
   }
 }
